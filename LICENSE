@@ -1,6 +1,19 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
+***********
+
+The following is an archive of programs in the GitHub repository as of anuary 12, 2026.
+
+kijai/ComfyUI-KJNodes
+https://github.com/kijai/ComfyUI-KJNodes
+
+Here are the changes by ChildProgrammer
+requirements/main.txt：
+Fine-tuned dependencies.
+
+***********
+
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
