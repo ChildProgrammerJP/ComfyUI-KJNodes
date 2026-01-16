@@ -23,7 +23,7 @@
 # AttributeError: module 'comfy_api.latest._io_public' has no attribute 'DynamicCombo'
 # ComfyUI-KJNodes のltxv_nodes.pyが、最新のComfyUI仕様（comfy_api.latest）を前提とした書き方になっている。
 # 今回の環境の内部ライブラリがその最新仕様（DynamicCombo属性）を持っていないため、読み込み時に衝突してエラーになる
-# 対策として、「DynamicCombo属性」がなくてもエラーとならないように修正・
+# 対策として、「DynamicCombo属性」がなくてもエラーとならないように修正。
 
 from comfy_extras.nodes_lt import get_noise_mask, LTXVAddGuide
 import types
